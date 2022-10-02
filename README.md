@@ -1,4 +1,4 @@
-# Projeto III de Experiência Criativa
+# Projeto III de Experiência Criativa - Pet Shop
 <p>
 Esse projeto foi desenvolvido durante a disciplina de experiência criativa do curso de Ciência da Computação. Ele foi construído a partir de react e simula um pet shop.
 </p>
